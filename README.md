@@ -1,3 +1,3 @@
 # demo
-Demo for github introduction vedio
+Demo for github introduction vedio.
 Some desciption
